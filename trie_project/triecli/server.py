@@ -13,7 +13,6 @@ print(f2.renderText("Enter 'help' for a list of usable commands"))
 def displayCommands():
     print(f2.renderText("--- Commands ---"))
     print("help:                        shows all commands available through the cli")
-    print("stop:                        stops the cli from running(exit)")
     print("add_[words]:                 adds words or a word to the trie")
     print("remove_[words]:              deletes words or a word from the trie")
     print("search_[words]:              searches for the words or word in the trie and returns words found and not found")
