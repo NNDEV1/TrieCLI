@@ -1,5 +1,5 @@
 from flask import Flask
-import trie as tr
+import trie1 as tr
 
 app = Flask(__name__)
 
