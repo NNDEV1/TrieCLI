@@ -37,7 +37,8 @@ Here are some resources I used to build this project:
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+* https://pypi.org/project/TrieCLI/0.0.1/
+* or
 * *Clone git repository*
 * *Make sure correct packages are installed(Prerequisites)*
 * *Run server.py* using ```python server.py``` inside triecli
