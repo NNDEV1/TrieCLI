@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name ="TrieCLI",
-    version="0.0.1",
+    version="0.0.2",
     author="Nalin Nagar",
     author_email="nalinnagar1@gmail.com",
     description="A command line interface implmenting the trie data structure",
