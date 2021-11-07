@@ -13,12 +13,12 @@ Using the Trie data structure to create a usable command line interface with var
 
 A list of commands are as follows:
 
-    ```help:                        shows all commands available through the cli
+    help:                        shows all commands available through the cli
     add_[words]:                 adds words or a word to the trie
     remove_[words]:              deletes words or a word from the trie
     search_[words]:              searches for the words or word in the trie and returns words found and not found
     visualize:                   displays all items currently in the trie
-    searchbyprefix_[prefix]:     returns all items in the trie starting with the given prefix```
+    searchbyprefix_[prefix]:     returns all items in the trie starting with the given prefix
 
 Here are some resources I used to build this project:
 
