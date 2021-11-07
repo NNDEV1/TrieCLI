@@ -38,9 +38,12 @@ Here are some resources I used to build this project:
 <!-- GETTING STARTED -->
 ## Getting Started
 
+* Install TrieCLI using ```pip install TrieCLI==0.0.2```
+* Run ```import TrieCLI``` and you're all set!
+* or optionally
 * *Clone git repository*
 * *Make sure correct packages are installed(Prerequisites)*
-* *Run server.py* using ```python server.py``` inside triecli
+* *Run server.py* using ```python server.py``` inside TrieCLI
 
 Example run:
 ![](https://user-images.githubusercontent.com/36611240/138568591-3eb0883a-a874-4dbb-b2b9-545c535b6578.png)
